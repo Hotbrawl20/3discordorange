@@ -14,7 +14,8 @@ Download themes [here](https://github.com/cheuble/3DiScord-themes)
 ### Credits
 
 * UI and port by [cheuble](https://github.com/cheuble)
-* Network features by [Rinnegatamante](https://github.com/Rinnegatamante/) (from lpp3ds) 
+* Network features by [Rinnegatamante](https://github.com/Rinnegatamante/) (from lpp3ds)
+* Theme by NicoAICP/Hotbrawl20
 **All the original VitaCord staff:**
 * coderx3 (devingDev)
 * Arkanite
